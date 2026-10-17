@@ -25,7 +25,7 @@
 
 | Functional Testing | CAD Enclosure Body | CAD Exploded View |
 | :---: | :---: | :---: |
-| ![Testing](assets/testing.gif) | ![CAD Body](assets/cadbody.jpeg) | ![CAD Explode](assets/cadexplode.jpeg) |
+| ![Testing](assets/testing.gif) | ![CAD Body](assets/cadbody.jpg) | ![CAD Explode](assets/cadexplode.jpg) |
 
 | Mechanical Assembly | Hero Shot |
 | :---: | :---: |
