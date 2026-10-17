@@ -6,7 +6,7 @@
 
 ## Overview
 * **Status:** Completed
-* **Core Technology:** 555 Timer IC, Perfboard Soldering, Autodesk CAD, 3D Printing, Enclosure Design
+* **Core Technology:** 555 Timer IC, Perfboard Soldering, Autodesk Fusion, 3D Printing, Enclosure Design
 * **Primary Objective:** Build a robust, self-contained portable tool for generating adjustable frequency/pulse signals in the field.
 
 ---
